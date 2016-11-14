@@ -42,9 +42,9 @@ Get all setup done on the project including installing webpack.
 I also will need to begin remembering Canvas.
 
 Goals:
-* Get all setup done.*
-* Relearn enough Canvas to get static shapes to show up in the browser.*
-* Deploy site to github pages*
+* Get all setup done.
+* Relearn enough Canvas to get static shapes to show up in the browser.
+* Deploy site to github pages
 
 ###Day 2
 Get canvas to animate random movements and deal with collisions of cells.
@@ -59,9 +59,9 @@ Also create links to github and get a media player that allows for paused
 music.
 
 Goals:
-* Allow user to pilot a cell around the map using arrow keys*
-* Add github link*
-* Add media Player and pause button*
+* Allow user to pilot a cell around the map using arrow keys
+* Add github link
+* Add media Player and pause button
 
 ###Day 4
 Finish styling all elements and fix any remaining bugs
