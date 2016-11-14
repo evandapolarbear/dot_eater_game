@@ -25,9 +25,9 @@ pause button described in the bonus features if time allows.
 ##Architecture and Technologies.
 
 I will these technologies to implement this project:
-*webpack to bundle my JS files into an entry file.*
-*HTML Canvas to animate all cells and control opposition cells.*
-*Vanilla javascipt to allow the user to control their cell.*
+* webpack to bundle my JS files into an entry file.
+* HTML Canvas to animate all cells and control opposition cells.
+* Vanilla javascipt to allow the user to control their cell.
 
 Besides my entry file, I will have a screen.js file that will take care of
 tracking and rendering all cells and their collisions.
@@ -42,16 +42,16 @@ Get all setup done on the project including installing webpack.
 I also will need to begin remembering Canvas.
 
 Goals:
-*Get all setup done.*
-*Relearn enough Canvas to get static shapes to show up in the browser.*
-*Deploy site to github pages*
+* Get all setup done.*
+* Relearn enough Canvas to get static shapes to show up in the browser.*
+* Deploy site to github pages*
 
 ###Day 2
 Get canvas to animate random movements and deal with collisions of cells.
 
 Goals:
-*Have Cells that move at random.*
-*When two cells collide have the larger one absorb the smaller one.*
+* Have Cells that move at random.
+* When two cells collide have the larger one absorb the smaller one.
 
 ###Day 3
 Use Vanilla javascript to allow the player to control their own cell.
@@ -59,15 +59,15 @@ Also create links to github and get a media player that allows for paused
 music.
 
 Goals:
-*Allow user to pilot a cell around the map using arrow keys*
-*Add github link*
-*Add media Player and pause button*
+* Allow user to pilot a cell around the map using arrow keys*
+* Add github link*
+* Add media Player and pause button*
 
 ###Day 4
 Finish styling all elements and fix any remaining bugs
 
 Goals:
-*Have a fully working game*
+* Have a fully working game
 
 ##Bonus
 - [ ] Add new enemies at random times from offscreen.
