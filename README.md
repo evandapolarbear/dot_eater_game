@@ -25,7 +25,7 @@ pause button described in the bonus features if time allows.
 ##Architecture and Technologies.
 
 I will these technologies to implement this project:
-* webpack to bundle my JS files into an entry file.
+* Webpack to bundle my JS files into an entry file.
 * HTML Canvas to animate all cells and control opposition cells.
 * Vanilla javascipt to allow the user to control their cell.
 
