@@ -1,0 +1,27 @@
+{
+  "name": "dot_eater",
+  "version": "1.0.0",
+  "description": "In this game, one player will attempt to guide their cell so that it eats smaller cells and avoids getting eaten by larger cells.  It will be similar to [agar](agar.io) but single player.  The game will continue until the player has eaten all other cells or been eaten themselves.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evandapolarbear/dot_eater_game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evandapolarbear/dot_eater_game/issues"
+  },
+  "homepage": "https://github.com/evandapolarbear/dot_eater_game#readme",
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.7",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "webpack": "^1.13.3"
+  }
+}
