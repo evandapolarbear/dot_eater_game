@@ -1,0 +1,29 @@
+#screen{
+  position: relative;
+}
+
+#canvas{
+
+}
+#level-counter, #pause-button, #mute-button{
+  position: absolute;
+  opacity: .5;
+  color: blue;
+}
+
+#pause-button{
+  top: 95%;
+  left: 2%;
+  font-size: 12px;
+}
+
+#level-counter{
+  top: 2%;
+  left: 2%;
+}
+
+#mute-button{
+  top: 95%;
+  right: 2%;
+  font-size: 20px;
+}
