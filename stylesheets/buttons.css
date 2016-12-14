@@ -32,3 +32,31 @@
   right: 2%;
   font-size: 20px;
 }
+
+#opening-modal {
+  position: absolute;
+  top: 25%;
+  left: 33%;
+  height: auto;
+  width: 33%;
+  background-color: white;
+  z-index: 1;
+  text-align: center;
+  border: 2px solid black;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+
+.opening-hide{
+  opacity: .5;
+  z-index: 2;
+}
+
+.hidden{
+  display:none;
+}

@@ -11,7 +11,25 @@
       <div id='score-counter'>Score: 0</div>
       <div id='mute-button'><i class="fa fa-volume-off" aria-hidden="true"></i></div>
       <div id='pause-button'><i class="fa fa-pause" aria-hidden="true"></i></div>
-      <canvas id='canvas'></canvas>
+
+      <div id='opening-modal'>
+        <h1>Blob Bitter</h1>
+        <h2>Eat or be Eaten!</h2>
+        <h3>Directions</h3>
+        <ul>
+          <li>Tap 'W' to go up</li>
+          <li>Tap 'S' to go down</li>
+          <li>Tap 'A' to go left</li>
+          <li>Tap 'D' to go right</li>
+        </ul>
+
+        <button id='start-button'>Play</button>
+      </div>
+
+      <canvas id='canvas' class='opening-hide'></canvas>
+
+
+
       <script src="modules/keymaster.js"></script>
       <script type="application/javascript" src="lib/bundle.js"></script>
   </body>
