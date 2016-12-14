@@ -3,9 +3,9 @@
 }
 
 #canvas{
-
 }
-#level-counter, #pause-button, #mute-button{
+
+#level-counter, #pause-button, #mute-button, #score-counter{
   position: absolute;
   opacity: .5;
   color: blue;
@@ -20,6 +20,11 @@
 #level-counter{
   top: 2%;
   left: 2%;
+}
+
+#score-counter {
+  top: 5%;
+  left: 2%
 }
 
 #mute-button{
