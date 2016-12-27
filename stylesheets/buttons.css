@@ -1,8 +1,16 @@
+body{
+  padding: 0;
+  margin: 0;
+}
+
 #screen{
   position: relative;
 }
 
 #canvas{
+  height: 100%;
+  width: 100%;
+  background-color: whitesmoke;
 }
 
 #level-counter, #pause-button, #mute-button, #score-counter{
