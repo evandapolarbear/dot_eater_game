@@ -1,7 +1,10 @@
 body{
   padding: 0;
   margin: 0;
+  transition: opacity 1.5s ease;
+  opacity: 1;
 }
+
 
 #screen{
   position: relative;
@@ -11,6 +14,7 @@ body{
   height: 100%;
   width: 100%;
   background-color: whitesmoke;
+  transition: opacity 1.5s ease;
 }
 
 #level-counter, #pause-button, #mute-button, #score-counter{
