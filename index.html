@@ -7,8 +7,6 @@
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-T8Gy5hrqNKT+hzMclPo118YTQO6cYprQmhrYwIiQ/3axmI1hQomh7Ud2hPOy8SP1" crossorigin="anonymous">
   </head>
   <body>
-      <!-- <div id='black-out'></div> -->
-
       <div id='level-counter'>Level: 1</div>
       <div id='score-counter'>Score: 0</div>
       <div id='mute-button'><i class="fa fa-volume-off" aria-hidden="true"></i></div>
@@ -26,6 +24,16 @@
         </ul>
 
         <button id='start-button'>Play</button>
+      </div>
+
+      <div id='ending-modal' class='hidden'>
+        <h1>Blob Bitter</h1>
+        <h2>Eat or be Eaten!</h2>
+        <h3>You Lost!</h3>
+
+        </ul>
+
+        <button id='start-over-button'>Play Again?</button>
       </div>
 
       <canvas id='canvas' class='opening-hide'></canvas>

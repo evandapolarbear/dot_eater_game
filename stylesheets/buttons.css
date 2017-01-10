@@ -15,16 +15,6 @@ body{
   transition: opacity 2s ease-in-out;
 }
 
-/*#black-out{
-  position: absolute;
-  width: 100%;
-  height:100%;
-  z-index: 1;
-  background-color: white;
-  opacity: 0;
-  transition: all; 2s ease;
-}*/
-
 .faded {
   opacity: 0;
 }
@@ -57,7 +47,7 @@ body{
   font-size: 20px;
 }
 
-#opening-modal {
+#opening-modal, #ending-modal {
   position: absolute;
   top: 20%;
   left: 33%;
