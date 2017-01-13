@@ -11,7 +11,7 @@ button {
   height: 20%;
   width: 40%;
   font-size: 16;
-} 
+}
 
 button:active{
   box-shadow: 3px 6px #ea5252;
@@ -34,7 +34,7 @@ button:active{
   opacity: 0;
 }
 
-#level-counter, #pause-button, #mute-button, #score-counter{
+#level-counter, #pause-button, #score-counter{
   position: absolute;
   opacity: .5;
   color: blue;
@@ -54,12 +54,6 @@ button:active{
 #score-counter {
   top: 5%;
   left: 2%
-}
-
-#mute-button{
-  top: 95%;
-  right: 2%;
-  font-size: 20px;
 }
 
 #opening-modal, #ending-modal {

@@ -10,6 +10,12 @@ smaller dots smaller than themselves, while avoiding getting eaten by larger dot
 The game has a minimalist design and infinite levels making it a good way to unwind after a
 stressful day
 
+##Photos
+![landing](./wireframes/dot_landing.jpeg)
+![in play](./wireframes/dot_in_play.jpeg)
+![game over](./wireframes/dot_lost.jpeg)
+
+
 ##Features and Implementation
 
 ###Levels
