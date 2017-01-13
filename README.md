@@ -13,7 +13,7 @@ stressful day
 ##Photos
 ![landing](./wireframes/dot_landing.jpeg)
 ![in play](./wireframes/dot_in_play.jpeg)
-![game over](./wireframes/dot_lost.jpeg)
+![game over](./wireframes/dot_end.jpeg)
 
 
 ##Features and Implementation
