@@ -5,6 +5,17 @@ body{
   overflow: hidden;
 }
 
+.key-diagram {
+  display: inline-block;
+  border: 2px solid black;
+  border-radius: 4px;
+  min-height: 30px;
+  min-width: 30px;
+  text-align: center;
+  vertical-align: middle;
+  margin: 4px
+}
+
 button {
   border: black 2px solid;
   background-color: white;
@@ -56,9 +67,15 @@ button:active{
   left: 2%
 }
 
+#opening-modal {
+  top: 12%;
+}
+
+#ending-modal{
+  top: 20%;
+}
 #opening-modal, #ending-modal {
   position: absolute;
-  top: 20%;
   left: 33%;
   height: auto;
   width: 33%;
@@ -66,6 +83,7 @@ button:active{
   z-index: 2;
   text-align: center;
   border: 2px solid black;
+  border-radius: 4px;
   padding-top: 60px;
   padding-bottom: 60px;
 }

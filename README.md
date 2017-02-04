@@ -1,8 +1,8 @@
-#Dot Eater Game
+#BubbleBiter
 
 ##About
 
-[Dot Eater Live](https://evandapolarbear.github.io/dot_eater_game/)
+[Bubble Biter Live](https://evandapolarbear.github.io/dot_eater_game/)
 
 In this game(inspired by [agar](agar.io)), a player attempts to guide their dot so that it eats
 smaller dots smaller than themselves, while avoiding getting eaten by larger dots.
